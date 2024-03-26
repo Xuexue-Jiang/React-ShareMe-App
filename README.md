@@ -1,4 +1,4 @@
-🍇 A Pinterest like social media app named ShareMe built with React 18 + React Router 
+🍇 A Pinterest like social media app named ShareMe built with Create-react-app 
 
 👩‍💻 User login uses Google OAuth and Sanity is used for the backend database. Data query is using GROQ.
 
