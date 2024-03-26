@@ -1,6 +1,8 @@
 🍇 A Pinterest like social media app named ShareMe built with Create-react-app 
 
-👩‍💻 User login uses Google OAuth and Sanity is used for the backend database. Data query is using GROQ.
+👩‍💻 User login uses Google OAuth 
+
+🎃 Sanity is used for backend storage and data query. Data query schema is using GROQ.
 
 🍒 User can post images/pins as well as save pins, and comment on pins. 
 
